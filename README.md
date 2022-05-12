@@ -35,3 +35,14 @@ pdf_documents = [('index', u'rst2pdf', u'Sample rst2pdf doc', u'Your Name'),]
 ```
 
 `sphinx-build -b pdf doc/source doc/build`
+
+
+`make latexpdf`
+
+
+
+**Output Latex**
+`sphinx-build -b latex source build`
+`sudo apt-get install latexmk`
+`sudo apt install texlive-latex-extra`
+
