@@ -5,7 +5,7 @@ sphinx-quickstart docs
 
 
 
-
+'''
 docs
 ├── build           
 ├── make.bat
@@ -16,6 +16,7 @@ docs
    ├── _static
    └── _templates
    
+'''
 
 
 sphinx-build -b html source build
