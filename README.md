@@ -1,7 +1,7 @@
-pip install sphinx
+`pip install sphinx`
 
 
-sphinx-quickstart docs
+`sphinx-quickstart docs`
 
 
 
@@ -19,7 +19,7 @@ docs
    
 ```
 
-sphinx-build -b html source build
+`sphinx-build -b html source build`
 
 
 
